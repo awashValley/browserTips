@@ -1,0 +1,7 @@
+
+// How to disable geo-location in Mozilla Firefox
+1. open firefox and type "about:config"
+2. Then search for "geo.enabled". Double click to change the boolean value to "false"
+3. In case the new setting is not saved, you need to clear the "Catche"
+    3.1. How to clear Catche?
+         a. Firefox -> Preference -> Advanced -> Network -> Catched Web Content (click "Clear Now")
